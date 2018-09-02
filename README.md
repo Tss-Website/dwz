@@ -12,3 +12,4 @@ new.sql
 .htaccess
 
 Starting project/beta/creative come up by:Karry (Chinese)
+#Please note:.htaccess cannot show due to github settings.
