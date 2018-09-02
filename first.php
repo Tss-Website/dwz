@@ -1,4 +1,4 @@
-<?php
+<?php //Written by CGPJ
 $code = $_GET['code'];
 $mysql_server="localhost";
 $mysql_username="username";
