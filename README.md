@@ -2,7 +2,9 @@
 This project powered by qkurl.
 Twilight soul web team completes some futher function about it.
 This tool can make you can short URLs.
-## We will provide Full-Program download at <a href="https://github.com/Tss-Website/dwz/releases"> Releases </a>soon.
+## <font color="red"> We will provide Full-Program download at <a href="https://github.com/Tss-Website/dwz/releases"> Releases</a> soon.</font>
+
+
 
 Main:frist.php
 Change&addtion function by: 吃瓜皮鸡(Chi Gua Pi Ji,Chinese) and Stev888(Chinese) .
