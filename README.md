@@ -4,7 +4,7 @@ Twilight soul web team completes some futher function about it.
 This tool can make you can short URLs.
 ## <font color="red"> We will provide Full-Program download at <a href="https://github.com/Tss-Website/dwz/releases"> Releases</a> soon.</font>
 <hr>
-Shorturl Program Demo for this version of repositories: <a href="http://4mg.top"> 4mg.top
+Shorturl Program Demo for this version of repositories: <a href="http://4mg.top"> 4mg.top</a>
 
 
 Main:frist.php
