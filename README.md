@@ -26,8 +26,8 @@ Starting project/beta/creative come up by:Karry (Chinese)
 #  Please note:.htaccess cannot show due to github settings.
 #  Edit:We cannot release our Short URL program on time due to some reason.We are so sorry about that.
 <hr>
-#  简体中文 (Chinese Simplified)
+#  -简体中文 (Chinese Simplified)
 （对不起，暂时无本组成员为本介绍翻译为此语言。【待翻译】）
 <hr>
-#  繁體中文 (Chinese Traditional)
+#  -繁體中文 (Chinese Traditional)
 （對不起，本小組暫時無成員為該介紹翻譯為這個語言。【等待翻譯】）
