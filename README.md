@@ -15,7 +15,7 @@ Shorturl Program Demo for this version of repositories: <a href="http://4mg.top"
 
 
 Main:frist.php
-Change&addtion function by: 吃瓜皮鸡(Chi Gua Pi Ji,Chinese) and Stev888(Chinese) .
+Change&addtion function by: Stev888(Chinese) .
 
 Assistant Supporting Files:
 new.sql 
